@@ -2,7 +2,7 @@
   {
     "category": "Panel Updates",
     "post_name": "Premium / Plus Panel Updated",
-   "post_image": "https://images-ext-1.discordapp.net/external/M2tN7PYuH9vJ8w_aNJUbmmr91w8nTC_-gEdkA-9r4_M/https/i.ibb.co/Lz3JBWX6/2026-04-1111-10-59-ezgif-com-video-to-gif-converter.gif",
+   "post_image": "https://images-ext-1.discordapp.net/external/tJ85k8axOGejy2xZ_DGpbNdQj0QPkYhbJM4rXJCfLro/https/i.ibb.co/d4hhfYfm/2026-04-1111-10-59-ezgif-com-video-to-gif-converter-1.gif",
     "post": "Aimbot V2 has been updated successfully. First, bot and play a few matches to check it, then use it."
   },
   
