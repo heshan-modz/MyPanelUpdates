@@ -2,7 +2,7 @@
   {
     "category": "Panel Updates",
     "post_name": "Premium / Plus Panel Updated",
-   "post_image": "https://images-ext-1.discordapp.net/external/gDMhYYgLUmHRcfkh92HKW03-S2KmnsCuQ4eAraqs91o/https/i.ibb.co/Q31mkpk6/text-1.gif",
+   "post_image": "https://images-ext-1.discordapp.net/external/rOQ9mw-fIVyWQeioepQLIg5o8aSSfDU0Hz0Fme2VxQ0/https/i.ibb.co/RGBNXcKQ/text.gif",
     "post": "Aimbot V2 has been updated successfully. First, bot and play a few matches to check it, then use it."
   },
   
