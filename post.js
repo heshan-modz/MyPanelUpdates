@@ -10,6 +10,6 @@
     "category": "FreeFire News",
     "post_name": "FreeFire OB53 Update",
     "post_image": "https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/20264/c57c0a509dd55e527fd73a89d3aae479.jpeg",
-    "post": "Date of Update: Insert Date – e.g., 8th April 2026\nThis is to inform all FreeFire players that the highly anticipated OB53\nUpdate available for download after maintenance"
+    "post": "Date of Update: Insert Date – 8th April 2026\nThis is to inform all FreeFire players that the highly anticipated OB53\nUpdate available for download after maintenance"
   }
 ]
