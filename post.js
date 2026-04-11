@@ -15,9 +15,9 @@
   
   {
     "category": "FreeFire News",
-    "post_name": "FreeFire OB53 Update",
+    "post_name": "Don't use bluestacks latest emulater.",
     "post_image": "https://images-ext-1.discordapp.net/external/tJ85k8axOGejy2xZ_DGpbNdQj0QPkYhbJM4rXJCfLro/https/i.ibb.co/d4hhfYfm/2026-04-1111-10-59-ezgif-com-video-to-gif-converter-1.gif",
-    "post": "Don't use bluestacks latest emulater."
+  
   }
   
   
