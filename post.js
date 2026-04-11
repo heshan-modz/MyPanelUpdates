@@ -17,5 +17,12 @@
     "post_name": "Alert ⚠️",
    "post_image": "https://images-ext-1.discordapp.net/external/tJ85k8axOGejy2xZ_DGpbNdQj0QPkYhbJM4rXJCfLro/https/i.ibb.co/d4hhfYfm/2026-04-1111-10-59-ezgif-com-video-to-gif-converter-1.gif",
     "post": "Don't use Bluestacks latest version."
+  },
+    {
+    "category": "Panel Updates",
+    "post_name": "Alert ⚠️",
+   "post_image": "https://images-ext-1.discordapp.net/external/tJ85k8axOGejy2xZ_DGpbNdQj0QPkYhbJM4rXJCfLro/https/i.ibb.co/d4hhfYfm/2026-04-1111-10-59-ezgif-com-video-to-gif-converter-1.gif",
+    "post": "Don't use aimbot v1 / v2 / drag at same time"
   }
+  
 ]
