@@ -3,7 +3,7 @@
     "category": "Panel Updates",
     "post_name": "Premium / Plus Panel Updated",
   
-    "post": "Aimbot v2 Updated Successfull.(first bot and play few matches check it and use.)"
+    "post": "Aimbot V2 has been updated successfully. First, bot and play a few matches to check it, then use it."
   },
   
   {
