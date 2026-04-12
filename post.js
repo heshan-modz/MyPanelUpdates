@@ -35,6 +35,12 @@
     "post_name": "Premium/Plus Panel Updated",
    "post_image": "https://images-ext-1.discordapp.net/external/tJ85k8axOGejy2xZ_DGpbNdQj0QPkYhbJM4rXJCfLro/https/i.ibb.co/d4hhfYfm/2026-04-1111-10-59-ezgif-com-video-to-gif-converter-1.gif",
     "post": "aimbot and sniper functions"
+  },
+    {
+    "category": "Panel Updates",
+    "post_name": "Premium/Plus Panel Updated",
+   "post_image": "https://images-ext-1.discordapp.net/external/tJ85k8axOGejy2xZ_DGpbNdQj0QPkYhbJM4rXJCfLro/https/i.ibb.co/d4hhfYfm/2026-04-1111-10-59-ezgif-com-video-to-gif-converter-1.gif",
+    "post": "aimbot v2,drag functions updated"
   }
   
 ]
