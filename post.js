@@ -46,7 +46,7 @@
     "category": "Panel Updates",
     "post_name": "Alert ⚠️",
    "post_image": "https://images-ext-1.discordapp.net/external/tJ85k8axOGejy2xZ_DGpbNdQj0QPkYhbJM4rXJCfLro/https/i.ibb.co/d4hhfYfm/2026-04-1111-10-59-ezgif-com-video-to-gif-converter-1.gif",
-    "post": "Tomorrow (2026/4/13) Don't use panel at 12.00pm-4.30pm, high risk day."
+    "post": "Today (2026/4/13) Don't use panel at 11.00pm-4.30pm, high risk day."
   }
   
 ]
