@@ -1,11 +1,5 @@
 [
-  {
-    "category": "Panel Updates",
-    "post_name": "Premium / Plus Panel Updated",
-   "post_image": "https://images-ext-1.discordapp.net/external/tJ85k8axOGejy2xZ_DGpbNdQj0QPkYhbJM4rXJCfLro/https/i.ibb.co/d4hhfYfm/2026-04-1111-10-59-ezgif-com-video-to-gif-converter-1.gif",
-    "post": "Aimbot V2 has been updated successfully. First, bot and play a few matches to check it, then use it."
-  },
-  
+
   {
     "category": "FreeFire News",
     "post_name": "FreeFire OB53 Update",
@@ -32,21 +26,9 @@
   },
     {
     "category": "Panel Updates",
-    "post_name": "Premium/Plus Panel Updated",
-   "post_image": "https://images-ext-1.discordapp.net/external/tJ85k8axOGejy2xZ_DGpbNdQj0QPkYhbJM4rXJCfLro/https/i.ibb.co/d4hhfYfm/2026-04-1111-10-59-ezgif-com-video-to-gif-converter-1.gif",
-    "post": "aimbot and sniper functions"
-  },
-    {
-    "category": "Panel Updates",
-    "post_name": "Premium/Plus Panel Updated",
-   "post_image": "https://images-ext-1.discordapp.net/external/tJ85k8axOGejy2xZ_DGpbNdQj0QPkYhbJM4rXJCfLro/https/i.ibb.co/d4hhfYfm/2026-04-1111-10-59-ezgif-com-video-to-gif-converter-1.gif",
-    "post": "aimbot v2,drag functions updated"
-  },
-    {
-    "category": "Panel Updates",
     "post_name": "Alert ⚠️",
    "post_image": "https://images-ext-1.discordapp.net/external/tJ85k8axOGejy2xZ_DGpbNdQj0QPkYhbJM4rXJCfLro/https/i.ibb.co/d4hhfYfm/2026-04-1111-10-59-ezgif-com-video-to-gif-converter-1.gif",
-    "post": "Today (2026/4/13) Don't use panel at 11.00am-4.30pm, high risk day."
+    "post": "Next Friday don't use your main id at 12.30pm-4.30pm (risky day)"
   }
   
 ]
