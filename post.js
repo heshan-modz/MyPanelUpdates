@@ -35,6 +35,12 @@
     "post_name": "Internal Panel Updated",
    "post_image": "https://images-ext-1.discordapp.net/external/tJ85k8axOGejy2xZ_DGpbNdQj0QPkYhbJM4rXJCfLro/https/i.ibb.co/d4hhfYfm/2026-04-1111-10-59-ezgif-com-video-to-gif-converter-1.gif",
     "post": "recommend to don't use main id, and use this \nFreeFire Apk: https://www.mediafire.com/file/splgejm10cbwgd4/HeshaN_ModZ_FreeFire_v7a_Apkpure.xapk/file"
+  },
+    {
+    "category": "Panel Updates",
+    "post_name": "Internal Panel Updated",
+   "post_image": "https://images-ext-1.discordapp.net/external/tJ85k8axOGejy2xZ_DGpbNdQj0QPkYhbJM4rXJCfLro/https/i.ibb.co/d4hhfYfm/2026-04-1111-10-59-ezgif-com-video-to-gif-converter-1.gif",
+    "post": "added speed hack, silent aim, auto save hotkeys"
   }
   
 ]
