@@ -9,25 +9,25 @@
     {
     "category": "Panel Updates",
     "post_name": "Alert ⚠️",
-   "post_image": "https://images-ext-1.discordapp.net/external/tJ85k8axOGejy2xZ_DGpbNdQj0QPkYhbJM4rXJCfLro/https/i.ibb.co/d4hhfYfm/2026-04-1111-10-59-ezgif-com-video-to-gif-converter-1.gif",
+   "post_image": "https://images-ext-1.discordapp.net/external/rRMA9wqFR2oY9r928M5M5BmZCv7KY_XWEaHjgLQV8m0/https/i.ibb.co/VWrxwcdm/standard.gif?width=400&height=160",
     "post": "Don't use Bluestacks latest version."
   },
     {
     "category": "Panel Updates",
     "post_name": "Alert ⚠️",
-   "post_image": "https://images-ext-1.discordapp.net/external/tJ85k8axOGejy2xZ_DGpbNdQj0QPkYhbJM4rXJCfLro/https/i.ibb.co/d4hhfYfm/2026-04-1111-10-59-ezgif-com-video-to-gif-converter-1.gif",
+   "post_image": "https://images-ext-1.discordapp.net/external/rRMA9wqFR2oY9r928M5M5BmZCv7KY_XWEaHjgLQV8m0/https/i.ibb.co/VWrxwcdm/standard.gif?width=400&height=160",
     "post": "Don't use aimbot v1 / v2 / drag at same time"
   },
     {
     "category": "Panel Updates",
     "post_name": "Internal Panel Updated",
-   "post_image": "https://images-ext-1.discordapp.net/external/tJ85k8axOGejy2xZ_DGpbNdQj0QPkYhbJM4rXJCfLro/https/i.ibb.co/d4hhfYfm/2026-04-1111-10-59-ezgif-com-video-to-gif-converter-1.gif",
+   "post_image": "https://images-ext-1.discordapp.net/external/rRMA9wqFR2oY9r928M5M5BmZCv7KY_XWEaHjgLQV8m0/https/i.ibb.co/VWrxwcdm/standard.gif?width=400&height=160",
     "post": "recommend to don't use main id, and use this \nFreeFire Apk: https://www.mediafire.com/file/splgejm10cbwgd4/HeshaN_ModZ_FreeFire_v7a_Apkpure.xapk/file"
   },
     {
     "category": "Panel Updates",
     "post_name": "Internal Panel Updated",
-   "post_image": "https://images-ext-1.discordapp.net/external/tJ85k8axOGejy2xZ_DGpbNdQj0QPkYhbJM4rXJCfLro/https/i.ibb.co/d4hhfYfm/2026-04-1111-10-59-ezgif-com-video-to-gif-converter-1.gif",
+   "post_image": "https://images-ext-1.discordapp.net/external/rRMA9wqFR2oY9r928M5M5BmZCv7KY_XWEaHjgLQV8m0/https/i.ibb.co/VWrxwcdm/standard.gif?width=400&height=160",
     "post": "ESP Bug Fix , Silent aim Power up , aim froce updated"
   }
   
