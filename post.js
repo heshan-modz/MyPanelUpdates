@@ -28,7 +28,7 @@
     "category": "Panel Updates",
     "post_name": "Premium Panel Updated",
    "post_image": "https://images-ext-1.discordapp.net/external/rRMA9wqFR2oY9r928M5M5BmZCv7KY_XWEaHjgLQV8m0/https/i.ibb.co/VWrxwcdm/standard.gif?width=400&height=160",
-    "post": "sniper scope: sniper valin fire krn avasthe vitrak sniper scope eke toggle switch ek on krnn anit velvta ek off krnn anivren"
+    "post": "sniper functions updated"
   }
   
 ]
