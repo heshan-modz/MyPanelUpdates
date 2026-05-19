@@ -20,12 +20,6 @@
   },
     {
     "category": "Panel Updates",
-    "post_name": "Internal Panel Updated",
-   "post_image": "https://images-ext-1.discordapp.net/external/rRMA9wqFR2oY9r928M5M5BmZCv7KY_XWEaHjgLQV8m0/https/i.ibb.co/VWrxwcdm/standard.gif?width=400&height=160",
-    "post": "recommend to don't use main id, and use this \nFreeFire Apk: https://www.mediafire.com/file/splgejm10cbwgd4/HeshaN_ModZ_FreeFire_v7a_Apkpure.xapk/file"
-  },
-    {
-    "category": "Panel Updates",
     "post_name": "Alert ⚠️",
    "post_image": "https://images-ext-1.discordapp.net/external/rRMA9wqFR2oY9r928M5M5BmZCv7KY_XWEaHjgLQV8m0/https/i.ibb.co/VWrxwcdm/standard.gif?width=400&height=160",
     "post": "Emulater phone for use Samsung S21 ultra"
@@ -34,7 +28,7 @@
     "category": "Panel Updates",
     "post_name": "Panel Updated",
    "post_image": "https://images-ext-1.discordapp.net/external/rRMA9wqFR2oY9r928M5M5BmZCv7KY_XWEaHjgLQV8m0/https/i.ibb.co/VWrxwcdm/standard.gif?width=400&height=160",
-    "post": "Internal Updated success and fixed lag function issue"
+    "post": "aim froce updated success and use playstore freefire (don't use main id) , in game turn on aim froce after end the match turn off."
   }
   
 ]
