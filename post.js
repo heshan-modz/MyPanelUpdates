@@ -28,7 +28,7 @@
     "category": "Panel Updates",
     "post_name": "External /Internal Updated",
    "post_image": "https://images-ext-1.discordapp.net/external/rRMA9wqFR2oY9r928M5M5BmZCv7KY_XWEaHjgLQV8m0/https/i.ibb.co/VWrxwcdm/standard.gif?width=400&height=160",
-    "post": "External vsk scope pc version for working now, Internal panel now pc version for working now."
+    "post": "Updated all external and internal panels"
   }
 
   
