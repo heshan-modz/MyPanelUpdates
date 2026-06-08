@@ -35,6 +35,12 @@
     "post_name": "Alert ⚠️",
    "post_image": "https://images-ext-1.discordapp.net/external/rRMA9wqFR2oY9r928M5M5BmZCv7KY_XWEaHjgLQV8m0/https/i.ibb.co/VWrxwcdm/standard.gif?width=400&height=160",
     "post": "Premium/Plus Panel Safe now"
+  },
+  {
+    "category": "FreeFire News",
+    "post_name": "FreeFire OB54 Update",
+    "post_image": "https://images-ext-1.discordapp.net/external/BtbRUqwffrwIjfNB58tIojU9_p7PaMC7AXRrM-WR34Y/https/i.ibb.co/LzmtvVjp/image-2026-06-08-164026765.png?format=webp&quality=lossless",
+    "post": "remaining 15 days"
   }
 
 
