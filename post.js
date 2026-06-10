@@ -41,6 +41,12 @@
     "post_name": "FreeFire OB54 Update",
     "post_image": "https://images-ext-1.discordapp.net/external/BtbRUqwffrwIjfNB58tIojU9_p7PaMC7AXRrM-WR34Y/https/i.ibb.co/LzmtvVjp/image-2026-06-08-164026765.png?format=webp&quality=lossless",
     "post": "remaining 15 days"
+  },
+  {
+    "category": "FreeFire News",
+    "post_name": "How to Recover FootBall kick Hks ??",
+    "post_image": "https://images-ext-1.discordapp.net/external/BtbRUqwffrwIjfNB58tIojU9_p7PaMC7AXRrM-WR34Y/https/i.ibb.co/LzmtvVjp/image-2026-06-08-164026765.png?format=webp&quality=lossless",
+    "post": "oylta puluvn football kick eken berenna oylth football ek dgnna 4 denma gihin football kick ek use krna kenage gava gihin fire krnn football ek kadenakan ek kadunama recover venna puluvn"
   }
 
 
