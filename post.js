@@ -35,6 +35,12 @@
     "post_name": "Alert ⚠️",
    "post_image": "https://images-ext-1.discordapp.net/external/rRMA9wqFR2oY9r928M5M5BmZCv7KY_XWEaHjgLQV8m0/https/i.ibb.co/VWrxwcdm/standard.gif?width=400&height=160",
     "post": "All Panels disabled until today 2.00pm"
+  },
+    {
+    "category": "Panel Updates",
+    "post_name": "Premium/plus updated",
+   "post_image": "https://images-ext-1.discordapp.net/external/rRMA9wqFR2oY9r928M5M5BmZCv7KY_XWEaHjgLQV8m0/https/i.ibb.co/VWrxwcdm/standard.gif?width=400&height=160",
+    "post": "me week eke chams / lag functions vitrai main id use krnn anith Eva main id use krnn epa aimbot v1 update krla na / female fix update krla na ( updating soon…)"
   }
 
   
