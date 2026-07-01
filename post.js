@@ -36,13 +36,7 @@
    "post_image": "https://images-ext-1.discordapp.net/external/rRMA9wqFR2oY9r928M5M5BmZCv7KY_XWEaHjgLQV8m0/https/i.ibb.co/VWrxwcdm/standard.gif?width=400&height=160",
     "post": "panel safe now"
   }
-,
-    {
-    "category": "Panel Updates",
-    "post_name": "Alert ⚠️",
-   "post_image": "https://images-ext-1.discordapp.net/external/rRMA9wqFR2oY9r928M5M5BmZCv7KY_XWEaHjgLQV8m0/https/i.ibb.co/VWrxwcdm/standard.gif?width=400&height=160",
-    "post": "From 11:30 AM to 3:30 PM, please don’t use the main panel today. It’s AntiCheat updating day, so the panel may be unavailable or unstable during that time. Thank you!"
-  }
+
 
 
   
