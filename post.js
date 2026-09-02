@@ -4,7 +4,7 @@
     "category": "FreeFire News",
     "post_name": "FreeFire OB55 Update",
     "post_image": "https://sdprodstorage.blob.core.windows.net/sd-cms-prod/cms-post/Free%20Fire%20OB55%20update%20new%20changes-1786102506379.webp",
-    "post": "remaining 15 days (2026.9.16)"
+    "post": "remaining 12 days (2026.9.16)"
   },
     {
     "category": "Panel Updates",
