@@ -35,6 +35,12 @@
     "post_name": "Alert ⚠️",
    "post_image": "https://images-ext-1.discordapp.net/external/rRMA9wqFR2oY9r928M5M5BmZCv7KY_XWEaHjgLQV8m0/https/i.ibb.co/VWrxwcdm/standard.gif?width=400&height=160",
     "post": "All panel safe now"
+  },
+    {
+    "category": "Panel Updates",
+    "post_name": "Alert ⚠️",
+   "post_image": "https://images-ext-1.discordapp.net/external/rRMA9wqFR2oY9r928M5M5BmZCv7KY_XWEaHjgLQV8m0/https/i.ibb.co/VWrxwcdm/standard.gif?width=400&height=160",
+    "post": "Aimbot Drag and internal panel updating soon..."
   }
 
 
