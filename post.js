@@ -40,12 +40,6 @@
     "category": "Panel Updates",
     "post_name": "Alert ⚠️",
    "post_image": "https://images-ext-1.discordapp.net/external/rRMA9wqFR2oY9r928M5M5BmZCv7KY_XWEaHjgLQV8m0/https/i.ibb.co/VWrxwcdm/standard.gif?width=400&height=160",
-    "post": "All panel safe now"
-  },
-    {
-    "category": "Panel Updates",
-    "post_name": "Alert ⚠️",
-   "post_image": "https://images-ext-1.discordapp.net/external/rRMA9wqFR2oY9r928M5M5BmZCv7KY_XWEaHjgLQV8m0/https/i.ibb.co/VWrxwcdm/standard.gif?width=400&height=160",
     "post": "Internal Users FreeFire Apk : https://www.mediafire.com/file/cu08kr36ty0yqey/FREEFIRE_V7A_x_HeshaN_ModZ.xapk/file"
   },
     {
@@ -53,6 +47,12 @@
     "post_name": "Alert ⚠️",
    "post_image": "https://images-ext-1.discordapp.net/external/rRMA9wqFR2oY9r928M5M5BmZCv7KY_XWEaHjgLQV8m0/https/i.ibb.co/VWrxwcdm/standard.gif?width=400&height=160",
     "post": "For internal users aimbot visible dont use main id."
+  },
+    {
+    "category": "Panel Updates",
+    "post_name": "Alert ⚠️",
+   "post_image": "https://images-ext-1.discordapp.net/external/rRMA9wqFR2oY9r928M5M5BmZCv7KY_XWEaHjgLQV8m0/https/i.ibb.co/VWrxwcdm/standard.gif?width=400&height=160",
+    "post": "All panel safe now"
   }
 
 
