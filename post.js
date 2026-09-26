@@ -58,7 +58,7 @@
     "category": "Panel Updates",
     "post_name": "Alert ⚠️",
    "post_image": "https://images-ext-1.discordapp.net/external/rRMA9wqFR2oY9r928M5M5BmZCv7KY_XWEaHjgLQV8m0/https/i.ibb.co/VWrxwcdm/standard.gif?width=400&height=160",
-    "post": "Aimbot V1 / Drag : match eken match ekkt game eke cut krla ilaga match ekt ynna , Aimbot V2 : Normel vidiyt use krnna"
+    "post": "Aimbot V1 / Drag : match eken match ekkt game eke cut krla ilaga match ekt ynna (br,cs,custom) , Aimbot V2 : Normel vidiyt use krnna (cs)"
   }
 
 
